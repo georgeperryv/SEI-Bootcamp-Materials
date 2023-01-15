@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css'/>
+    <head>
+        <title>GitHub Users</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+              integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+              crossorigin="anonymous">
+        <link rel='stylesheet' href='/stylesheets/style.css'/>
+    </head>
+<body class="container">
+<% if (result) { %>
+    <div class="jumbotron">
+        <h1 class="text-center">Chuck jokes
+            <h2><%= result.value %></h2>
+        </h1>
+    </div>
+<% } else { %>
+    <div class="jumbotron">
+        <h1 class="text-center">Cannot find any Chuck jokes</h1>
+    </div>
+<% } %>
+</body>
+</html>

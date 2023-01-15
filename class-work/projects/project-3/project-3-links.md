@@ -1,0 +1,14 @@
+## Project 3 Team Links
+
+| Team | Project Name | Pitch Deck | Trello | GitHub | Hosted Site |
+|---|:---:|:---:|:---:|:---:|:---:|
+| Mario (Pod 1) |  |  |  |  |  |
+| **NAMELESS**:<br>Berkay<br>Justin<br>Tom | MarketTrace | [link](https://docs.google.com/presentation/d/1kyYRN0cXwehSX8kUnARkwvBiIG9LCh2O9BGOM1Q55ZY/edit#slide=id.p) | [link](https://trello.com/b/wlfQMq8B/project-3-nameless) | [link](https://github.com/flyingisfreedom5/marketrace) | [link](https://marketrace.herokuapp.com/) |
+| **TEAM SUPERAWESOME DIC**:<br>Chris<br>Dani<br>Ilerdon | Recipe Thyme! | [link](https://docs.google.com/presentation/d/e/2PACX-1vRhlskP5MC_QY5j4Gb-Hq79qyqHU7cJP5PPX1yIpZJ0gkcs6xfmXJtkHYnmWtUuwYSKXdBhAHrkdDDq/pub?start=false&loop=false&delayms=3000&slide=id.p) | [link](https://trello.com/b/AN0V72I8/p3-recipe-thyme) | [link](https://github.com/iballinger/Recipe-Thyme) | [link](https://recipe-thyme.herokuapp.com/) |
+| **TBD**:<br>Nisha<br>Parker<br>Roger | Flixnet | [link](https://docs.google.com/presentation/d/1hneCiU8hIpf_tjTi-eMotBWqtBiQ01YOqx3n0CEerHc/edit#slide=id.p) | [link](https://trello.com/b/Mrtug1qx/flixnet) | [link](https://github.com/roger-davila/flixnet) | [link](https://flixnet-tbd.herokuapp.com/) |
+| **JUICY J'S**:<br>Jenny<br>Joseph<br>Junior | OnlyCakes | [link](https://docs.google.com/presentation/d/1kbqB2LmtMkoT74o25QbIfsfCvOGnELR2mAGnKD3Ul5o/edit#slide=id.p) | [link](https://trello.com/b/EX6KSP09/only-cakes) | [link](https://github.com/jhuang15/onlycakes) | [link](https://onlycakes.herokuapp.com/) |
+| Stephanie (Pod 2) |  |  |  |  |  |
+| **CODE CARTEL**:<br>Jordan<br>Tesh<br>Yi | Blindspot | [link](https://docs.google.com/presentation/d/1fi_tmbq9PY3_WgFcGKr2sQhLzVsGZlMspVksfc5L-_g/edit#slide=id.p) | [link](https://trello.com/b/KWjVDtko/code-cartel) | [link](https://github.com/tesh510/blindspot) | [link](https://blindspot-1.herokuapp.com/) |
+| **SKULL FALCONS**:<br>Alex<br>Matt<br>Rich | NueReview | [link](https://docs.google.com/presentation/d/19L16M7Zy5K84_HltERyVmqKxgyP-nBln9Jzsg8-_KFs/edit#slide=id.gd9c453428_0_16) | [link](https://trello.com/b/oeukAtaQ/skull-falcons) | [link](https://github.com/Bushfaced/nue_review) | [link](https://nuereview.herokuapp.com/) |
+| **HUGS FOR DEBUGS**:<br>Kensloe<br>Maroof<br>Ron P. | Tweeper | [link](https://docs.google.com/presentation/d/1JZhMFUA0vYgifJtIg0pdptItTkJGyQbupIslhS5sBVw/edit#slide=id.g729dd71725_7_214) | [link](https://trello.com/b/eM3yXayv/tweepy) | [link](https://github.com/coltonsaywhatt/Tweeper) | [link](https://tweepyofficial.herokuapp.com/) |
+| **DJANGO UNCHAINED**:<br>EJ<br>Gaby<br>Scott<br>Sophia | Developers Meet | [link](https://docs.google.com/presentation/d/1cL9vP2GjVHr0p9FcZpRXPvM6ElTmGJYyy9mHlEebLWQ/edit) | [link](https://trello.com/b/uq6RLoIJ/group-project-dating-app) | [link](https://github.com/EjOliver1107/DevelopersMeet) | [link](https://developersmeet-sei.herokuapp.com/) |
